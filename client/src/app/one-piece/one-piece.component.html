@@ -1,0 +1,9 @@
+<div class="sea-board">
+  <div *ngFor="let tablecolumns of boardRows" class="grid-table-row">
+    <span *ngFor="let tablerow of boardColumns" class="grid-table-column">
+      <app-water></app-water>
+    </span>
+  </div>
+
+  <app-navire [ngClass]="activeClass ? 'isSelected' : 'notSelected'" (click)="toggleClass()"> </app-navire>
+</div>
