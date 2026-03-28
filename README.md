@@ -37,7 +37,6 @@ L'architecture se compose de deux parties :
 1. Base de données : Créez une base de données nommée one_piece dans PostgreSQL.
 2. Configuration : Dans src/main/resources/application.properties, remplacez les valeurs de connexion par les vôtres.
 3. IDE : Ouvrez le projet dans IntelliJ, configurez le SDK sur Corretto 11 et créez une configuration "Application" pointant sur la classe com.example.demo.DemoApplication.
-4. Lancement : Appuyez sur le bouton "Play" de l'IDE.
 
 ### 3. Configuration du Client (Front-end)
 1. Accédez au dossier : cd One-Piece-Client.
