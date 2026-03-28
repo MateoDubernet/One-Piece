@@ -5,6 +5,7 @@ Ce projet a été réalisé durant mon alternance dans le but de me former aux f
 
 L'architecture se compose de deux parties :
 - Client (Front-end) : Développé avec Angular et TypeScript, il communique avec le serveur via des requêtes HTTP pour l'affichage et la gestion des données.
+
 - Serveur (Back-end) : Développé avec Spring (Java), il gère la persistance des données via une API REST et une base de données PostgreSQL.
 
 ---
