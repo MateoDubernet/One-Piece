@@ -18,16 +18,14 @@ Ce projet a été réalisé durant mon alternance pour approfondir mes compéten
 ```
 
 ### 2. Lancement (Docker)
-
 **Prérequis :** [Docker Desktop](https://www.docker.com/products/docker-desktop) installé et lancé.
 
-#### 2.1 Lancement de l'application
 ```bash
-    cd ./one piece
+    cd ./one-piece
     docker-compose up --build
 ```
 
-#### 2.2 Accès
+### 3. Accès
 - Interface Client : http://localhost (Port 80)
 - API Backend : http://localhost:8080
 
