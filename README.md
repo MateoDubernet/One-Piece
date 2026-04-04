@@ -26,8 +26,9 @@ Ce projet a été réalisé durant mon alternance pour approfondir mes compéten
 ```
 
 ### 3. Accès
-- Interface Client : http://localhost (Port 80)
-- API Backend : http://localhost:8080
+- **Interface Client** : http://localhost (Port 80)
+
+- **API Backend** : http://localhost:8080
 
 [!IMPORTANT]
 Assurez-vous que les ports 80 et 8080 ne sont pas déjà utilisés par une autre application sur votre machine avant de lancer le conteneur.
@@ -37,8 +38,8 @@ Assurez-vous que les ports 80 et 8080 ne sont pas déjà utilisés par une autre
 ## Fonctionnement du Système
 L'interface dispose d'une barre de navigation avec trois sections principales
 
-1. Navire : Un mini-jeu interactif sur un quadrillage. En cliquant sur le navire, vous pouvez le déplacer à l'aide des flèches directionnelles du clavier.
+1. **Navire** : Un mini-jeu interactif sur un quadrillage. En cliquant sur le navire, vous pouvez le déplacer à l'aide des flèches directionnelles du clavier.
 
-2. Crew (Équipages) : Un tableau listant les différents équipages. Cette section permet la création et la modification des groupes.
+2. **Crew (Équipages)** : Un tableau listant les différents équipages. Cette section permet la création et la modification des groupes.
 
-3. Member (Membres) : Un tableau listant les membres. Note : Il est nécessaire d'avoir créé au moins un équipage avant de pouvoir ajouter un membre.
+3. **Member (Membres)** : Un tableau listant les membres. Note : Il est nécessaire d'avoir créé au moins un équipage avant de pouvoir ajouter un membre.
