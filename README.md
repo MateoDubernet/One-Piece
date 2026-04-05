@@ -3,7 +3,7 @@
 ## Présentation
 Ce projet a été réalisé durant mon alternance pour approfondir mes compétences sur les frameworks **Angular** et **Spring Boot**. Il s'agit d'une application complète permettant de gérer des équipages et des membres, incluant une interface interactive et un mini-jeu.
 
-### Architecture :
+### Architecture
 - **Front-end** : Angular & TypeScript (Interface interactive et gestion d'état).
 - **Back-end** : Spring Boot (API REST, Java 11).
 - **Base de données** : PostgreSQL (Persistance des données).
