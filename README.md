@@ -3,16 +3,14 @@
 ## Présentation
 Ce projet a été réalisé durant mon alternance. Il s'agit d'une application permettant de gérer des équipages et des membres, incluant une interface interactive et un mini-jeu.
 
-### Technologies
+### Stack Technique
 - **Angular**.
-- **Spring Boot**.
+- **Spring**.
 - **Docker**.
 
 ---
 
 ## Installation et Lancement
-Ouvrir un terminal
-
 ### 1. Clonage du dépôt
 ```bash
     git clone https://github.com/MateoDubernet/service-worker.git
@@ -30,7 +28,7 @@ Assurez-vous que les ports 80 et 8080 ne sont pas déjà utilisés par une autre
 ```
 
 ### 3. Accès
-Ouvrez votre navigateur web à l'adresse: http://localhost
+Ouvrir un navigateur web et aller à l'adresse: http://localhost
 
 ---
 
