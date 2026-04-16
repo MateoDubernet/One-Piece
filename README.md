@@ -4,9 +4,9 @@
 Ce projet a été réalisé durant mon alternance. Il s'agit d'une application permettant de gérer des équipages et des membres, incluant une interface interactive et un mini-jeu.
 
 ### Stack Technique
-- **Angular**.
-- **Spring**.
-- **Docker**.
+- **Angular**
+- **Spring**
+- **Docker**
 
 ---
 
