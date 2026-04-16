@@ -13,7 +13,7 @@ Ce projet a été réalisé durant mon alternance. Il s'agit d'une application p
 ## Installation et Lancement
 ### 1. Clonage du dépôt
 ```bash
-    git clone https://github.com/MateoDubernet/service-worker.git
+    git clone https://github.com/MateoDubernet/one-piece.git
 ```
 
 ### 2. Lancement (Docker)
